@@ -1,5 +1,5 @@
 Bán Nick Tiktok : 1 Nick - 450Đ | 1 Nick - 45K Xu | End 10 Nick
-Lệnh Setting : https://github.com/huanphung1111/Phung-Manh-Huan/blob/main/Full%20Setting
+Lệnh Setting : https://github.com/huanphung1111/Phung-Manh-Huan/blob/main/Full%20Setting.txt
 Lệnh Tải Tool : git clone https://github.com/huanphung1111/Phung-Manh-Huan.git
 Lệnh Setup : https://fnote.net/notes/0c8599
 Admin : https://zalo.me/huan2k7
