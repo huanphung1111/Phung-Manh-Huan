@@ -1,6 +1,6 @@
 Bán Nick Tiktok : 1 Nick - 450Đ | 1 Nick - 45K Xu | End 10 Nick
 Lệnh Setting : https://github.com/huanphung1111/Phung-Manh-Huan/blob/main/Full%20Setting.txt
-Lệnh Tải Tool : git clone https://github.com/huanphung1111/Phung-Manh-Huan.git
+Lệnh Tải Tool : git clone https://github.com/huanphung1111/Phung-Manh-Huan.git (Ae Copy git - .git cho mình nhé rồi dán vô termux & cmder, và copy lệnh vo tool mình đã để cho Ae lấy nhé)
 Lệnh Setup : https://fnote.net/notes/0c8599
 Admin : https://zalo.me/huan2k7
 Lệnh Vô Tool MB : cd /sdcard/download/Phung-Manh-Huan && php tool.php
