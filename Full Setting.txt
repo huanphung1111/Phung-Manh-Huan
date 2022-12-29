@@ -3,6 +3,6 @@ Lệnh Setting : https://github.com/huanphung1111/Phung-Manh-Huan/blob/main/Full
 Lệnh Tải Tool : git clone https://github.com/huanphung1111/Phung-Manh-Huan.git (Ae Copy từ git đến hết .git cho mình nhé rồi dán vô termux & cmder, và copy lệnh vo tool mình đã để cho Ae lấy nhé)
 Lệnh Setup : https://fnote.net/notes/0c8599
 Admin : https://zalo.me/huan2k7
-Lệnh Vô Tool MB : cd /sdcard/download/Phung-Manh-Huan && php tool.php
+Lệnh Vô Tool MB : cd /sdcard/download/Phung-Manh-Huan && php tool.php (Ae chạy cho mình cd /sdcard/download xong cài lệnh tải tool nhé)
 Lệnh Vô Tool PC : cd \xampp\php\Phung-Manh-Huan && php tool.php
 Tool Được Bản Quyền Do Nhà Nước Cấp : Phùng Mạnh Huấn
