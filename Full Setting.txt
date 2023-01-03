@@ -6,7 +6,9 @@ PC : (Ae chạy cho mình cd \xampp\php xong cài lệnh tải tool nhé)
 
 (Ae Copy từ git đến hết .git cho mình nhé rồi dán vô termux & cmder và copy lệnh vô tool MB & PC cho mình nhé)
 
-(Trước Khi Chạy Lệnh Xóa Thư Mục ae chạy cho mình cd /sdcard/download)
+MB : (Trước Khi Chạy Lệnh Xóa Thư Mục ae chạy cho mình cd /sdcard/download)
+
+PC : (Trước Khi Chạy Lệnh Xóa Thư Mục ae chạy cho mình cd \xampp\php)
 
 Video Cách Tải Tool : https://youtu.be/1Cs2p5DSe8M
 
