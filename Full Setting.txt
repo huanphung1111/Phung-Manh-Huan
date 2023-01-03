@@ -1,26 +1,8 @@
 Bán Nick Tiktok : 1 Nick - 450Đ | 1 Nick - 45K Xu | End 10 Nick
 
-MB : (Ae chạy cho mình cd /sdcard/download xong cài lệnh tải tool nhé)
-
-PC : (Ae chạy cho mình cd \xampp\php xong cài lệnh tải tool nhé)
-
-(Ae Copy từ git đến hết .git cho mình nhé rồi dán vô termux & cmder và copy lệnh vô tool MB & PC cho mình nhé)
-
-MB : (Trước Khi Chạy Lệnh Xóa Thư Mục ae chạy cho mình cd /sdcard/download)
-
-PC : (Trước Khi Chạy Lệnh Xóa Thư Mục ae chạy cho mình cd \xampp\php)
-
 Video Cách Tải Tool : https://youtu.be/1Cs2p5DSe8M
 
 Lệnh Setup Termux : https://fnote.net/notes/0c8599
-
-Lệnh Setting : https://github.com/huanphung1111/Phung-Manh-Huan/blob/main/Full%20Setting.txt
-
-Lệnh Tải Tool : git clone https://github.com/huanphung1111/Phung-Manh-Huan.git 
-
-Lệnh Vô Tool MB : cd /sdcard/download/Phung-Manh-Huan && php tool.php 
-
-Lệnh Vô Tool PC : cd \xampp\php\Phung-Manh-Huan && php tool.php 
 
 Lệnh Xóa Thư Mục : rm -Rf Phung-Manh-Huan
 
