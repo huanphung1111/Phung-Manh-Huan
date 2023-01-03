@@ -1,6 +1,6 @@
 Bán Nick Tiktok : 1 Nick - 450Đ | 1 Nick - 45K Xu | End 10 Nick
 
-Video Cách Tải Tool : https://youtu.be/1Cs2p5DSe8M
+Lệnh Tải Tool : git clone https://github.com/huanphung1111/PhungManhHuan.git
 
 Lệnh Setup Termux : https://fnote.net/notes/0c8599
 
