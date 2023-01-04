@@ -4,7 +4,7 @@ Lệnh Tải Tool : git clone https://github.com/huanphung1111/PhungManhHuan.git
 
 Lệnh Setup Termux : https://fnote.net/notes/0c8599
 
-Lệnh Xóa Thư Mục : rm -Rf Phung-Manh-Huan
+Lệnh Xóa Thư Mục : rm -Rf PhungManhHuan
 
 Admin : https://zalo.me/huan2k7
 
